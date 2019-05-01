@@ -3,9 +3,9 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Restarted my coding bootcamp at the beginning of the Javascript module.  Learned Git
 
-Day 0: April 30, 201 
+**Day 0**: April 30, 201 
 
 **Today's Progress**: Restarted javascript module in Udemy
 
