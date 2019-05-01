@@ -9,4 +9,4 @@
 
 **Thoughts:** I haven't coded in half and year really struggle with the math parts of js.  Using sublime merge is an initial headache and getting used to commiting things to git has been weird to say the least.
 
-**Link to work:** [My GitHub](http://www.example.com)
+**Link to work:** [My GitHub](https://github.com/toastytrumpet)
