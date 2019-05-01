@@ -5,7 +5,7 @@
 
 **Today's Progress**: Restarted my coding bootcamp at the beginning of the Javascript module.  Learned Git
 
-**Day 0**: April 30, 201 
+**Day 0**: April 30, 2019
 
 **Today's Progress**: Restarted javascript module in Udemy
 
